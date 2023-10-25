@@ -1,7 +1,7 @@
 # Contador-Regressivo
 Um contador regressivo simples e personalizável criado com HTML, CSS e JavaScript. Este projeto permite que você crie contadores regressivos para diversos eventos e aprenda como trabalhar com funções de tempo em JavaScript.
 
-![Contador Regressivo](Screenshot from 2023-10-25 15-15-44.png)
+![Contador Regressivo](Screenshot.png)
 
 ## Recursos
 
