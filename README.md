@@ -15,7 +15,7 @@ Um contador regressivo simples e personalizável criado com HTML, CSS e JavaScri
 1. Clone este repositório para sua máquina local:
 
     ```
-    git clone https://github.com/seu-nome/contador-regressivo.git
+    git clone https://github.com/jossias/contador-regressivo.git
     ```
 
 2. Abra o arquivo `index.html` em seu navegador da web para visualizar o contador regressivo.
@@ -29,8 +29,8 @@ Um contador regressivo simples e personalizável criado com HTML, CSS e JavaScri
 No código fornecido, a data e hora-alvo estão definidas para 31 de dezembro de 2023, à meia-noite. Você pode alterar essa data, modificando a seguinte linha no arquivo `script.js`:
 
 ```javascript
-   ```
 const targetDate = new Date("2023-12-31 00:00:00").getTime();
+```
 
 Este projecto foi criado como um exercício de aprendizado para trabalhar com funções de data e hora em JavaScript.
 
