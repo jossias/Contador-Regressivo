@@ -30,3 +30,7 @@ No código fornecido, a data e hora-alvo estão definidas para 31 de dezembro de
 
 ```javascript
 const targetDate = new Date("2023-12-31 00:00:00").getTime();
+
+Este projecto foi criado como um exercício de aprendizado para trabalhar com funções de data e hora em JavaScript.
+
+Se você tiver alguma sugestão ou melhoria, por favor, abra uma issue ou um pull request.
